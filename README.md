@@ -21,6 +21,6 @@ Only implemented on Android platfrom.
 
 ## Usage
 
-Below Flutter 2.0 you'd change the [dart_version.h](android/app/src/jni/internal/dart_version.h) DART_API_DL_MAJOR_VERSION to 1, Otherwise, the asynchronous callback cannot be executed.
+Below Flutter 2.0 you'd change the [dart_version.h](https://github.com/VomPom/flutter_ffi_tutorial/blob/main/android/src/main/jni/internal/dart_version.h) DART_API_DL_MAJOR_VERSION to 1, Otherwise, the asynchronous callback cannot be executed.
 
-Check out [example](exmaple).
+Check out [example](https://github.com/VomPom/flutter_ffi_tutorial/tree/main/example).
