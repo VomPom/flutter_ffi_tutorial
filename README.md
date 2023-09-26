@@ -13,7 +13,7 @@ Only implemented on Android platfrom.
 
 ## Snapshot
 
-![Demo](.images/demo.jpg)
+<img src=".images/demo.jpg" width="30%"/>
 
 ## Requirements
 
